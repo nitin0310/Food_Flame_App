@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891520012757",
+    "firebase_url": "https://foodflame-75dc4.firebaseio.com",
+    "project_id": "foodflame-75dc4",
+    "storage_bucket": "foodflame-75dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891520012757:android:db58af55fec4f822606d5c",
+        "android_client_info": {
+          "package_name": "com.example.foodlover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891520012757-8otm4jg8drmos4vq6gekb6431l3n7sfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlN3AxVtysej5ufa_Wc_s9_l2OTZLWYDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891520012757-8otm4jg8drmos4vq6gekb6431l3n7sfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
